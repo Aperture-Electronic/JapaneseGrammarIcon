@@ -1,4 +1,30 @@
 # Japanese Grammar Icon
 A icon font for Japanese Grammar
 
-Buliding by Font Creator and Adobe Illustrator.
+Bulid by Font Creator and Adobe Illustrator.
+
+# Icons support
+## Unicode
+The icon set is start from U+FF01.
+
+## Icon Dictionary
+### 品詞
+動詞    名詞    形容詞（形容）  形容動詞（形動）   助動詞（助動）   代名詞（代詞）
+連体詞（連体）  副詞    接続詞（接続）  感動詞（感動）  助詞    数詞
+
+### 動詞の段活用
+五段活用（五段）    上一段活用（上一）  下一段活用（下一）  カ行変格活用（カ変） サ行変格活用（サ変）
+四段活用（四段）    上二段活用（上二）  下二段活用（下二）  ナ行変格活用（カ変 ）ラ行変格活用（サ変）
+
+### 動詞の活用形（「動詞」と連続に書けます）
+未然形（未然）  連用形（連用）  終止形（終止）  連体形（連体）  已然形（已然）  命令形（命令）
+仮定形（仮定）  
+
+### 動詞の常用形（「動詞」と連続に書けます）
+#### 否定
+否定ない（否定）    否定ざる（ざる）    否定ぬ（ぬ）    否定ず（ず）    否定推量まい（ まい）
+#### 用語
+丁寧（ます）    意志形（意志）  て形（テ）  た形（タ）
+
+
+
